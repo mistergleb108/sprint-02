@@ -1,0 +1,8 @@
+.footer__column-copyright {
+  /* background-color: aqua; */
+  /* height: 250px; */
+  flex-basis: 711px;
+  /* display: flex; */
+  /* flex-direction: column; */
+  justify-content: space-between;
+}
